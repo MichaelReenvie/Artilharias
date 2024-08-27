@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação React que exibe os principais artilheiros do Campeonato Brasileiro de 2024. A aplicação consome a API [API-Futebol](https://api.api-futebol.com.br) para listar os jogadores com o maior número de gols. Além de exibir um resumo das informações de cada artilheiro, também oferece detalhes adicionais em um formato de lista expansível.
+Este projeto é uma aplicação React que exibe os principais artilheiros do Campeonato Brasileiro de 2024. A aplicação consome a API [API-Futebol](https://www.api-futebol.com.br/) para listar os jogadores com o maior número de gols. Além de exibir um resumo das informações de cada artilheiro, também oferece detalhes adicionais em um formato de lista expansível.
 
 ## Funcionalidades
 
